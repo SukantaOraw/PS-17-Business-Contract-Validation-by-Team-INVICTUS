@@ -13,4 +13,17 @@ PS-17 Business Contract Validation is a powerful tool designed to automate the c
 - **PDF Integration:** Enables seamless handling of PDF documents by extracting text and processing clauses.
 - **Visualization:** Presents classification results and similarity scores with detailed annotations for easy interpretation.
 
+# Training Model using Ensemble Classification technique
+![Train Model](Train_Model.png)
+
+# Training Accuracy on Validation data
+![Train Accuracy](Train_Accuracy.png)
+
+# Demo
+![Demo](Demo.gif)
+
+# Screenshots
+![Sample 1](Sample_1.png)
+![Sample 1](Sample_2.png)
+
 Download the project files from the [Google Drive link](https://drive.google.com/drive/folders/1pfjFw1BfjvFeaZ3Ey9xiBbh3dsYcT1B_?usp=drive_link).
