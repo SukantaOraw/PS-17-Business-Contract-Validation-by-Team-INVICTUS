@@ -2,7 +2,7 @@
 ## Business-Contract-Validation
 
 ### Description
-PS-17 Business Contract Validation is a powerful tool designed to automate the classification of contract clauses and highlight similarities and differences between them. This project leverages machine learning to provide accurate and efficient contract analysis, helping businesses streamline their contract management process.
+Business Contract Validation is a powerful tool designed to automate the classification of contract clauses and highlight similarities and differences between them. This project leverages machine learning to provide accurate and efficient contract analysis, helping businesses streamline their contract management process.
 
 ### Features
 - **Clause Classification:** Automates the categorization of contract clauses into predefined types based on their content.
