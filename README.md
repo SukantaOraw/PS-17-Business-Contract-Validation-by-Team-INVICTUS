@@ -1,5 +1,5 @@
 # Intel Unnati
-## PS-17-Business-Contract-Validation-by-Team-INVICTUS
+## Business-Contract-Validation
 
 ### Description
 PS-17 Business Contract Validation is a powerful tool designed to automate the classification of contract clauses and highlight similarities and differences between them. This project leverages machine learning to provide accurate and efficient contract analysis, helping businesses streamline their contract management process.
@@ -24,5 +24,3 @@ Read the full documentation [here](https://docs.google.com/document/d/1ilGt6nBhq
 ### Screenshots
 ![Sample 1](Sample_1.png)
 ![Sample 2](Sample_2.png)
-
-Download the project files from the [Google Drive link](https://drive.google.com/drive/folders/1pfjFw1BfjvFeaZ3Ey9xiBbh3dsYcT1B_?usp=drive_link).
